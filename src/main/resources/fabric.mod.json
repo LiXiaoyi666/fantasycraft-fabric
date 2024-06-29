@@ -3,13 +3,12 @@
 	"id": "fantasycraft",
 	"version": "${version}",
 	"name": "FantasyCraft",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "这是模组介绍",
 	"authors": [
-		"Me!"
+		"LiXiaoyi"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/LiXiaoyi666/fantasycraft-fabric"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/fantasycraft/icon.png",
