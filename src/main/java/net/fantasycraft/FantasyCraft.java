@@ -2,6 +2,7 @@ package net.fantasycraft;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fantasycraft.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -19,5 +20,6 @@ public class FantasyCraft implements ModInitializer {
 		// 谨慎行事。
 
 		LOGGER.info("Hello Fabric world!");
+		ModItems.registerModItems();
 	}
 }

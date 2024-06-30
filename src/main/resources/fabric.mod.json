@@ -19,6 +19,9 @@
 		],
 		"fabric-datagen": [
 			"net.fantasycraft.FantasyCraftDataGenerator"
+		],
+		"client": [
+			"net.fantasycraft.FantasyCraftClient"
 		]
 	},
 	"mixins": [
