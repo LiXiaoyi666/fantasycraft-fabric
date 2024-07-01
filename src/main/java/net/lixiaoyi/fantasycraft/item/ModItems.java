@@ -1,6 +1,6 @@
-package net.fantasycraft.item;
+package net.lixiaoyi.fantasycraft.item;
 
-import net.fantasycraft.FantasyCraft;
+import net.lixiaoyi.fantasycraft.FantasyCraft;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;

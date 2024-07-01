@@ -15,13 +15,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.fantasycraft.FantasyCraft"
+			"net.lixiaoyi.fantasycraft.FantasyCraft"
 		],
 		"fabric-datagen": [
-			"net.fantasycraft.FantasyCraftDataGenerator"
+			"net.lixiaoyi.fantasycraft.FantasyCraftDataGenerator"
 		],
 		"client": [
-			"net.fantasycraft.FantasyCraftClient"
+			"net.lixiaoyi.fantasycraft.FantasyCraftClient"
 		]
 	},
 	"mixins": [

@@ -1,4 +1,4 @@
-package net.fantasycraft;
+package net.lixiaoyi.fantasycraft;
 
 import net.fabricmc.api.ClientModInitializer;
 

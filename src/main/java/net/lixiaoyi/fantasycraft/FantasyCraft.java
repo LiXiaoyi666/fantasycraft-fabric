@@ -1,8 +1,8 @@
-package net.fantasycraft;
+package net.lixiaoyi.fantasycraft;
 
 import net.fabricmc.api.ModInitializer;
 
-import net.fantasycraft.item.ModItems;
+import net.lixiaoyi.fantasycraft.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
