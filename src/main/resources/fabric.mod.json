@@ -11,21 +11,21 @@
 		"sources": "https://github.com/LiXiaoyi666/fantasycraft-fabric"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/fantasycraft/icon.png",
+	"icon": "assets/fantasyfood/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.lixiaoyi.fantasycraft.FantasyCraft"
+			"net.lixiaoyi.fantasyfood.FantasyFood"
 		],
 		"fabric-datagen": [
-			"net.lixiaoyi.fantasycraft.FantasyCraftDataGenerator"
+			"net.lixiaoyi.fantasyfood.FantasyFoodDataGenerator"
 		],
 		"client": [
-			"net.lixiaoyi.fantasycraft.FantasyCraftClient"
+			"net.lixiaoyi.fantasyfood.FantasyFoodClient"
 		]
 	},
 	"mixins": [
-		"fantasycraft.mixins.json"
+		"fantasyfood.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.15.11",

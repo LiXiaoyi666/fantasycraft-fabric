@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "fantasycraft:item/cooked_egg"
+    "layer0": "fantasyfood:item/cooked_egg"
   }
 }
